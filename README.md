@@ -1,7 +1,5 @@
 # HTML-portfolio
 
-# HTML Practice Projects
-
 This repository contains two beginner web development projects created while learning HTML through a course on Udemy.
 
 These projects were built to practice fundamental web development concepts such as page structure, headings, lists, links, and images.
